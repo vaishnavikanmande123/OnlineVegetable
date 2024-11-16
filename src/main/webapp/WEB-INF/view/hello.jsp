@@ -1,4 +1,3 @@
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -10,7 +9,6 @@
         <h1>
             Hello World! from DD
             <br/>
-
         </h1>
     </body>
 </html>

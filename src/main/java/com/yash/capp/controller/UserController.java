@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
 @Controller
 public class UserController {
     @Autowired
-    private UserService userService;
+    private UserService  userService;
 
     @RequestMapping(value = {"/", "/index"})
 

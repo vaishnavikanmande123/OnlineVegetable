@@ -1,5 +1,5 @@
 package com.yash.capp.command;
-
+//take data from controller to the view jsp or viceversa this will communicating with the form
 public class LoginCommand {
     private String loginName;
     private String password;
